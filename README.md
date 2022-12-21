@@ -14,5 +14,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedrinhoNovaes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### Check my website: https://hiringpedro.netlify.app
+
 
 Learn and Share! ✨
