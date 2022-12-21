@@ -1,6 +1,6 @@
 ### Hello, I'm Pedro Novaes! ✌
 
-### I'm on my way to becoming a good dev.
+### I'm on my way to becoming a senior dev.
 
 ### The languages ​​I intend to specialize are [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]() and [![GoLang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)]().
 
