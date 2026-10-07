@@ -1,97 +1,46 @@
-<div align="center">
-
-# Hey, I'm Pedro Novaes 👋
-
-### Tech Lead · Software Engineer · AI & Automation Enthusiast
-
-*Somewhere between "this should be a quick fix" and debugging production, I became a Tech Lead.*
-
-</div>
-
----
-
-### 👨‍💻 About me
-
-I'm a Software Engineer currently working as a **Tech Lead**, building products, automations and systems that solve real-world problems.
-
-Most of my time is spent somewhere between:
-
-- 🧠 AI, LLMs and intelligent automation
-- ⚙️ Backend architecture and integrations
-- 🌐 Full-stack product development
-- ☁️ Cloud infrastructure
-- 🔌 APIs that were *definitely documented correctly*
-- 🐛 Bugs that "can't possibly happen in production"
-
-I enjoy turning messy business problems into simple software solutions — or at least making them **less messy**.
-
-I also believe good engineering is not about knowing everything.
-
-It's about knowing how to figure things out.
-
----
-
-### 🛠️ Things I work with
+<!-- HEADER -->
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:161B22,100:238636&text=Pedro%20Novaes&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Tech%20Lead%20%E2%80%A2%20Software%20Engineer&descAlignY=58&descSize=18&animation=fadeIn"/>
 
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![OpenAI](https://img.shields.io/badge/AI_%26_LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+software+that+solves+real+problems.;AI+%2B+Automation+%2B+Software+Engineering;Turning+messy+problems+into+less+messy+systems.;Tech+Lead+by+day...+debugger+by+night." />
+</a>
+
+<br/>
+
+> **Good engineering isn't about knowing everything.**  
+> It's about knowing how to figure things out.
 
 </div>
 
----
-
-### 🧩 My engineering philosophy
-
-> Make it work.  
-> Make it reliable.  
-> Make it understandable.  
-> Then pretend the first version never existed.
-
-I like simple architectures, readable code and solutions that people can actually maintain after the original developer disappears into another project.
+<br/>
 
 ---
 
-### 📊 GitHub
+## 👨‍💻 `whoami`
 
-<div align="center">
+```typescript
+const pedro = {
+  role: "Tech Lead",
+  background: "Software Engineering",
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PedrinhoNovaes&show_icons=true&theme=github_dark&hide_border=true" />
+  interests: [
+    "AI & LLMs",
+    "Automation",
+    "Backend Architecture",
+    "Full-Stack Development",
+    "Cloud & Integrations"
+  ],
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrinhoNovaes&layout=compact&theme=github_dark&hide_border=true" />
+  currentlyDoing: [
+    "Building products",
+    "Designing systems",
+    "Breaking APIs",
+    "Fixing the APIs I broke",
+    "Trying to make software simpler"
+  ],
 
-</div>
-
----
-
-### 🤝 Find me around the internet
-
-<div align="center">
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chatwith.io/s/pedro-novaes)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro.fernandorn@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro_rnovaes/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-rocha-novaes-56732a169/)
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Still learning. Still building. Still Googling error messages.
-
-*Learn, build, break things, understand why they broke, repeat.*
-
-</div>
+  philosophy: "Useful software > impressive buzzwords"
+};
